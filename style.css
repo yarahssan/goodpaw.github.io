@@ -16,7 +16,9 @@
 }
 .header img{
     width: 100%;
-    height: 90vh;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
 }
 .parent{
     position:sticky;
