@@ -10,15 +10,11 @@
 
 .header{
     width: 100%;
-    height: 100vh;
-    background-size: cover;
-    background-position: center;
+    max-height: 100%;
 }
 .header img{
     width: 100%;
     height: 100vh;
-    background-size: cover;
-    background-position: center;
 }
 .parent{
     position:sticky;
