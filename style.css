@@ -24,6 +24,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    bottom: 100%;
 }
 
 .logo{
